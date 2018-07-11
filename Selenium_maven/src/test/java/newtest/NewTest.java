@@ -15,7 +15,7 @@ public class NewTest {
 
   @AfterMethod
   public void afterMethod() {
-	  System.out.print("Test");
+	  System.out.print("Test completed");
   }
 
 }
